@@ -1,18 +1,5 @@
-# Screenshots and presentations
-Screenshot*.png
-ASL Hand-Sign Classification_ An End-to-End Machine Learning Pipeline.pdf
-ASL Report Final Abrham Assefa Habtamu.pdf
 
-# Notebooks
-ASL_Sign_Language_Classification_Enhanced (2).ipynb
-ASL Sign Language Classification.ipynb
 
-# Word documents
-ASL_Classification_Technical_Report_Final.docx
-
-# before folder
-before/
-before */
 
 # macOS
 .DS_Store
